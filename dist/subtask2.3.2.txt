@@ -1,0 +1,33 @@
+git status
+
+On branch manhattan
+nothing to commit, working tree clean
+
+
+git log
+
+commit 970eeb53b1fe0f1a276e2bfd0c1ecc8038557a64 (HEAD -> main)
+Merge: 97c4263 190cf46
+Author: Devansh bansal <devansh.bansal@research.iiit.ac.in>
+Date:   Wed Jan 8 09:58:09 2025 +0000
+
+    Merging the two branches back
+
+commit 190cf46c0ba634621a69009c0c51fc57db5adb19 (manhattan)
+Author: Devansh bansal <devansh.bansal@research.iiit.ac.in>
+Date:   Wed Jan 8 09:52:49 2025 +0000
+
+    Added the output text files
+
+commit 97c4263de8ece1124d968232011ad7c387b11093
+Author: Devansh bansal <devansh.bansal@research.iiit.ac.in>
+Date:   Wed Jan 8 09:22:07 2025 +0000
+
+    Update
+
+commit 2e1735291e5c6bdf89a9880b37e701b26ebafd64
+Author: Devansh bansal <devansh.bansal@research.iiit.ac.in>
+Date:   Wed Jan 8 09:19:48 2025 +0000
+
+    Second activity
+(END)

@@ -1,0 +1,3 @@
+using git reset --hard <hash code>
+
+HEAD is now at 2e17352 Second activity

@@ -1,0 +1,11 @@
+diff --git a/dist/distance.c b/dist/distance.c
+index de6cf03..17a0de5 100644
+--- a/dist/distance.c
++++ b/dist/distance.c
+@@ -1,6 +1,6 @@
+ #include <point.h>
+ def distance(Point x,Point y){
+-    return sqrt(pow(x.xcord-y.xcord,2)+pow(x.ycord-y.ycord,2));
++    return abs(x.xcord-y.xcord)+abs(x.ycord-y.ycord);
+ }
+ 
